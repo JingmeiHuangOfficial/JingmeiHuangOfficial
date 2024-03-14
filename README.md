@@ -1,16 +1,68 @@
-### Hi there 👋
-
-<!--
-**JingmeiHuangOfficial/JingmeiHuangOfficial** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+个人信息 💁‍♀️
+姓名： [你的姓名]
+性别： 女
+出生日期： [你的出生日期]
+联系方式： [你的联系方式]
+邮箱： [你的邮箱]
+国籍： [你的国籍]
+现居地： [你的现居地]
+教育背景 🎓
+博士学位： 地理信息科学（GIS）
+时间： [开始时间] - [预期毕业时间]
+学校： [你的博士学校]
+论文题目： [你的论文题目]
+硕士学位： [专业/领域]
+时间： [开始时间] - [结束时间]
+学校： [你的硕士学校]
+学士学位： [专业/领域]
+时间： [开始时间] - [结束时间]
+学校： [你的本科学校]
+工作经历 💼
+实习经历： [实习职位]
+时间： [开始时间] - [结束时间]
+公司/组织： [实习公司/组织名称]
+工作内容：
+[工作内容1]
+[工作内容2]
+[工作内容3]
+研究助理： [研究助理职位]
+时间： [开始时间] - [结束时间]
+实验室/项目： [研究实验室/项目名称]
+工作内容：
+[工作内容1]
+[工作内容2]
+[工作内容3]
+技能专长 💻
+编程语言：
+Python 🐍
+R 📊
+JavaScript 💻
+GIS软件：
+ArcGIS 🗺️
+QGIS 🌍
+GRASS GIS 🌾
+数据分析：
+数据可视化 📈
+空间分析 🌐
+地理数据库管理 🗄️
+其他技能：
+团队合作 🤝
+解决问题 🧩
+沟通能力 🗣️
+学术成就 🏆
+论文发表：
+论文标题1
+论文标题2
+论文标题3
+会议发言：
+会议名称1
+会议名称2
+会议名称3
+语言能力 🌐
+母语： [你的母语]
+第二语言： [第二语言] (流利/良好/基础)
+兴趣爱好 🎨
+📚 阅读
+🎶 音乐
+🌱 园艺
+🍰 烘焙
